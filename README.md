@@ -1,4 +1,4 @@
-# Merhaba, Ben [Mustafa BAYRAM] 👋
+# Selam 👋
 
 **Elektronik Teknolojisi Öğrencisi & C/C++ Geliştiricisi**
 
